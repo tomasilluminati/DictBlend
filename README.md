@@ -59,8 +59,7 @@ ZERO responsibility for any direct or indirect damages that may arise from the u
 By using this program, you acknowledge and accept this disclaimer of liability.
 
 **Please ensure that you understand the code and its implications before using it. Always conduct 
-thorough testing in a safe environment before implementing this code in a production setting.
-**
+thorough testing in a safe environment before implementing this code in a production setting.**
 
 ---
 
