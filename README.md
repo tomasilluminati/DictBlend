@@ -1,4 +1,9 @@
 # DictBlend - A Dictionary Creation Toolkit
+
+![GitHub License](https://img.shields.io/badge/License-MIT-green) ![Dictionary Creation](https://img.shields.io/badge/Tool-Dictionary_Creation-blue)
+
+## Overview
+
 DictBlend is a powerful Python script that empowers security professionals with a versatile set of tools for dictionary creation. Designed to enhance security awareness assessments, this toolkit offers a range of features, including word permutation, questionnaire-based data collection, custom word combination generation, and alphabet wordlist creation.
 
 ## Table of Contents
